@@ -1,0 +1,6 @@
+{
+    "name": "shoe-catalog",
+    "version": "1.0.0",
+    "description": "shoe catalog in JSON.",
+    "main": "catalog.json"
+}
